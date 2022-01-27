@@ -1,0 +1,124 @@
+{
+    "aliases": {
+        "somebody": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 9,
+            "created": 1632301880893
+        },
+        "aitfub": {
+            "url": "https://google.com",
+            "expiry": "5000",
+            "views": 7,
+            "password": "something",
+            "current_views": 21,
+            "created": 1632302101223
+        },
+        "YUAxsk": {
+            "url": "https://google.com",
+            "expiry": "5000",
+            "views": "5",
+            "password": "something",
+            "current_views": 4,
+            "created": 1632303234369
+        },
+        "gSYstA": {
+            "url": "https://google.com",
+            "expiry": "5000",
+            "views": "5",
+            "password": "something",
+            "current_views": 2,
+            "created": 1632303429364
+        },
+        "gqoeqB": {
+            "url": "https://google.com",
+            "expiry": "20000",
+            "views": "5",
+            "password": "something",
+            "current_views": 4,
+            "created": 1632303456765
+        },
+        "zrxvgh": {
+            "url": "https://google.com",
+            "expiry": "200000",
+            "views": "5",
+            "password": "something",
+            "current_views": 1,
+            "created": 1632303493290
+        },
+        "LXZwSC": {
+            "url": "https://google.com",
+            "expiry": "200000",
+            "views": "5",
+            "password": "f@ls#",
+            "current_views": 8,
+            "created": 1632303505896
+        },
+        "sCgsxR": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": "2",
+            "password": "f@ls#",
+            "current_views": 4,
+            "created": 1632303571148
+        },
+        "pqdbiz": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": "2",
+            "password": "f@ls#",
+            "current_views": 3,
+            "created": 1632303615225
+        },
+        "TEEayU": {
+            "url": "https://google.com",
+            "expiry": "5000",
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 2,
+            "created": 1632303634457
+        },
+        "PETWLW": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 1,
+            "created": 1632308033064
+        },
+        "HDWCFr": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 1,
+            "created": 1632308309757
+        },
+        "btEAry": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 0,
+            "created": 1632308324019
+        },
+        "zohan": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": false,
+            "password": "f@ls#",
+            "current_views": 1,
+            "created": 1632308329077
+        },
+        "zohans": {
+            "url": "https://google.com",
+            "expiry": false,
+            "views": "2",
+            "password": "f@ls#",
+            "current_views": 3,
+            "created": 1632308342676
+        }
+    }
+}

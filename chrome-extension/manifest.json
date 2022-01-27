@@ -1,0 +1,16 @@
+{
+    "name": "Smol.io",
+    "description": "I believe that software should be free and open-source. And I'm not talking about 'freemium' plans. I'm talking about 100% open-source software. But the problem is, most people aren't motivated enough to make good open-source software. And when somebody creates a good open-source application, like Minecraft, for example, they just end up selling it someone else (Microsoft) who makes it closed-source. This extension, does everything BitLY can, but there's one small difference. There's no paid plan, no signup required. So what're you waiting for? Install it!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Shorten your URLs now!"
+    },
+    "permissions": [
+        "contextMenus"
+    ]
+}
